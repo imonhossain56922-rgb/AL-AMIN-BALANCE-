@@ -1,0 +1,6 @@
+{
+  "name": "ALARMENS BALANCE - Personal Money Manager",
+  "description": "Mobile-first personal money management and balance tracking app with 80mm thermal receipt PDFs, reports, and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
